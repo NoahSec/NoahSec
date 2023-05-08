@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C80F7&width=435&lines=Hii%2C+I'm+Antony+Souza!+%F0%9F%A7%99%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+Github!+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C80F7&width=435&lines=Hii%2C+I'm+Antony+Souza!+%F0%9F%A7%99%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+Github!+%F0%9F%98%81)](https://git.io/typing-svg)
 <div>
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=NoahSec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahSec&layout=compact&langs_count=16&theme=tokyonight"/>
