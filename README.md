@@ -6,7 +6,7 @@
 
 
         
-## Tecnologias Empenhadas:
+## Tecnologias em estudo:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,mongodb,bash,linux,html,css,react,git,vscode,nano)](https://skillicons.dev)      
 
   
