@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<div  align="center"> 
+<div  align="right"> 
   <div style="display: inline_block"><br>
     <h1>Tecnologias em aprendizado:</h1>
     <img align="center" height="250" alt="coding-time" src="code.gif">
