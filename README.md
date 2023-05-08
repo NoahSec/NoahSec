@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=9727F7&width=435&lines=Oii%2C+me+chamo+Antony+Souza!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=930EF7&width=435&lines=Hii%2C+I'm+Antony+Souza!;Welcome+to+my+Github" alt="Typing SVG" /></a>
 <div>
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=NoahSec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahSec&layout=compact&langs_count=16&theme=tokyonight"/>
