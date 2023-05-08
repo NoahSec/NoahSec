@@ -1,5 +1,4 @@
-## Oii, me chamo Antony Souza!
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Oii%2C+me+chamo+Antony+Souza!+)](https://git.io/typing-svg)
 <div>
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=NoahSec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahSec&layout=compact&langs_count=16&theme=tokyonight"/>
