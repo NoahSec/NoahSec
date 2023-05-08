@@ -1,8 +1,8 @@
 ## Oii, me chamo Antony Souza!
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=NoahSec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahSec&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=NoahSec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="right" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahSec&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <br>
 <div  align="center"> 
